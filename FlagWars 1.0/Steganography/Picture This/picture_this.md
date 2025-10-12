@@ -9,7 +9,7 @@ Alternatively you can also run an online exiftool through the images. For this, 
 
 ![alt text](image.png)
 
-We get, __doraemon_guides__
+We get, _ doraemon_guides _
 
 ![alt text](image-1.png)
 
@@ -22,6 +22,10 @@ We get, nobita_home}
 ![alt text](image-3.png)
 
 We get, gadgets_whisper_
+
+![alt text](image-4.png)
+
+We get, daring_solaces
 
 Now assemble them in the right order to get the full final flag.
 
