@@ -23,7 +23,7 @@ We get, nobita_home}
 
 We get, gadgets_whisper_
 
-![alt text](image-4.png)
+<img width="742" height="353" alt="Screenshot 2025-10-12 163139" src="https://github.com/user-attachments/assets/8865fa71-3f8f-4c60-ba6a-c5f3a1fceb6a" />
 
 We get, daring_solaces
 
