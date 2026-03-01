@@ -65,6 +65,42 @@
    <img width="597" height="685" alt="image" src="https://github.com/user-attachments/assets/c94297b8-8058-4c6c-b886-0bed281a3ef6" />
 
 
+
 ## Flag:
 
     flagwars{osint_sherlock_master}
+
+
+
+
+# 3. The City That Doesn’t Exist
+
+
+## Desc:
+
+    > `Author : st3g0`
+    
+    **Flag Format**: flagwars{lat_lon}
+    
+    NOTE:  round it to 4 decimal places
+    
+    Find the image here:
+    https://drive.google.com/file/d/1HycVh0p0qjfH5p-nsAmZjXEClnUFqQHK/view?usp=sharing
+
+
+
+## Soln:
+
+    Use google image search to find the place and its coordinates
+
+    <img width="1645" height="786" alt="image" src="https://github.com/user-attachments/assets/e80364fd-e893-47d4-a2a1-661690e8ddaa" />
+
+
+
+## Flag:
+
+    flagwars{18.3232_-64.7662}
+
+
+
+
