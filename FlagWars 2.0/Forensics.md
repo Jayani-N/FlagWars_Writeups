@@ -103,3 +103,45 @@
 ## Flag:
 
     flagwars{fr4m3_65_png_chunk_hunt}
+
+# 4. Active Surveillance
+
+## Desc:
+
+    >`Author : EnCase`
+    
+    We’ve been monitoring him for weeks.
+
+    Calls. Messages. Movements.
+
+    Tonight, at 21:43, he placed a short phone call to an unknown number.
+
+    The conversation itself wasn’t important — mostly small talk.
+
+    But something in the background caught our attention.
+
+    A faint announcement.
+    Distorted. Muffled. Almost drowned out.
+
+    He never mentioned where he was.
+    He didn’t have to.
+
+    We believe that background audio reveals his location at the time of the call.
+
+    Identify where he was when this call was made.
+
+    Flag format: flagwars{origin-destination-time}
+
+    For example:
+
+    flagwars{jammu-punjab-11:11}
+
+    https://drive.google.com/file/d/1hGy3U9Mz23FSrsffsxCQ6kxUA7DVpNms/view?usp=drive_link
+
+## Soln:
+
+    Reverse the video and google translate from malayalam.
+
+## Flag:
+
+    flagwars{mangalapuram-chennai-19:35}
