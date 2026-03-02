@@ -213,18 +213,28 @@ https://drive.google.com/file/d/1VIgrULx27P7L5c-HB6795eqvhZl38idO/view?usp=drive
     Inside e_for_elephant.docx there will be a base 64 encoded text - UDE6IGZsYWd3YXJzezN2MWQzbmNlXw==
     
     Decoding which will lead to P1: flagwars{3v1d3nce_
+     
+        Notice the file called shinchan_title_song.mp4. Using binwalk on it shows that there's a RAR file embedded into it. Extract the RAR file using 
+
+<img width="827" height="283" alt="image" src="https://github.com/user-attachments/assets/da2b0549-9d68-455e-9114-f17570b786ef" />
+
+    You get the undiscovered_secrets.rar file extracted. Now when you tryto open it, it asks for the password. For the password, perform strings on old.jfif. At the end you find a Base64 encoded string. 
     
-    Second part: 
-    
-        P2: h1dd3n_but_
+    Decoding it gives the key - and_then_there_were_none
 
-    Third part:
+    Using this password open the rar file. 
 
-        P3: gr34t_m1nd5_
+    To get the second part of the flag - open coordinates.xlsx
 
-    Fourth part:
+    Second part: P2: h1dd3n_but
 
-        P4: 4lw4y5_r3c0v3r_1t}
+    To get the the third part of the flag, rename stock_market.bin to stock_market.bmp. Open the image, you get the third part.
+
+    Third part: P3: gr34t_m1nd5_
+
+    Now to obtain the fourth part of the flag, open greetings.rar and keep going inside each folder. Finally you get a rewards.exe file. Rename it to rewards.txt to get the fourth part of the flag.
+
+    Fourth part: P4: 4lw4y5_r3c0v3r_1t}
 
 ## Flag:
 
