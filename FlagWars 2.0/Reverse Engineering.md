@@ -49,9 +49,6 @@
 
     flag{r3v3rs3_1s_fun_1nd33d!_1480}
 
-
-    flagwars{js_d03s_4ll_th3_w0rk}
-
 # 2. Miscalculated
 
 ## Desc:
